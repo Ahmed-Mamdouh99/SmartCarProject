@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sktech": "controller.ino",
+    "sketch": "controller.ino",
+    "port": "COM3"
+}
